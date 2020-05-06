@@ -13,5 +13,5 @@ $ bundle exec rake assets:precompile DB_ADAPTER=nulldb
 Add the buildpack-ruby-assets-precompile-with-nulldb to your buildpack list:
 
 ```
-$ heroku buildpacks:add git@github.com:praesensco/buildpack-ruby-assets-precompile-with-nulldb.git
+$ heroku buildpacks:add https://github.com/praesensco/buildpack-ruby-assets-precompile-with-nulldb.git
 ```
