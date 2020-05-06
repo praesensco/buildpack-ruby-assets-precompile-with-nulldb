@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "run assets compilation with nulldb."
+echo "assets-precompile-with-nulldb"
